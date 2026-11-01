@@ -1,0 +1,10 @@
+{
+  "name": "Token Height",
+  "version": "0.0.1",
+  "manifest_version": 1,
+  "author": "ihrkej",
+  "description": "Right-click a token to set its height in feet.",
+  "homepage_url": "https://ihrkej.github.io/token-height/",
+  "icon": "https://ihrkej.github.io/token-height/icon.svg",
+  "background_url": "https://ihrkej.github.io/token-height/background.html"
+}
